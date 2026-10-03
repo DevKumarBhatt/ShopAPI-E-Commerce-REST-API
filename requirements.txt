@@ -1,0 +1,7 @@
+django==6.1
+djangorestframework
+djangorestframework-simplejwt
+psycopg2-binary
+django-filter
+drf-spectacular
+python-dotenv
